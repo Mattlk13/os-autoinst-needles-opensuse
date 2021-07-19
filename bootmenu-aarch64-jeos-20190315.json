@@ -13,7 +13,9 @@
     "ENV-DISTRI-opensuse",
     "ENV-FLAVOR-JeOS-for-AArch64",
     "ENV-UEFI-1",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.1",
-    "bootloader-grub2"
+    "bootloader-grub2",
+    "grub2"
   ]
 }

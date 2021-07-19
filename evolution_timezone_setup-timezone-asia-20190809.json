@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 236,
+      "height": 23,
+      "type": "match",
+      "ypos": 582,
+      "width": 54,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "timezone-asia"
+  ]
+}

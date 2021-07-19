@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 329,
+      "ypos": 302,
+      "width": 99,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-appx-file"
+  ]
+}
